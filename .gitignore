@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Output Files
+output/
+*.xlsx
+*.csv
+*.txt
+
+# Sample PDFs (don't commit client files)
+*.pdf
+
+# OS Files
+.DS_Store
+
+# Environment
+.env
+
+# Portfolio Assets
+screenshots/

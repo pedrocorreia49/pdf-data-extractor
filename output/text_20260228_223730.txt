@@ -1,0 +1,107 @@
+--- Page 1 ---
+Your Business Name
+1 Main St.
+Bevery Hills, CA 90210
+Phone: +1 (800) 555-5555
+email@yourdomain.com
+Invoice #135
+94027
+Date: 06/23/2018
+Invoiced To
+John Smith
+123 O ak Ave.
+Los Angeles, CA 90017
+Description Total
+Premium Membership - Monthly - yourdomain.com (06/23/2018 - 0 7/23/2018) USD $50.00
+Promotional Code: 25OFF - 25.00% Recurring Discount USD $-12.50
+Sub Total USD $37.50
+Credit USD $0.00
+Total USD $37.50
+Transactions
+Transaction Date Transaction ID Amount
+06/23/2018 ch_9CdwKtEDJAI2k4ZEVqkl0xQr USD $37.50
+Balance USD $37.50
+PDF Generated on 06/23/2018
+Powered by TCPDF (www.tcpdf.org)
+
+--- Page 2 ---
+Your Business Name
+1 Main St.
+Bevery Hills, CA 90210
+Phone: +1 (800) 555-5555
+email@yourdomain.com
+Invoice #
+13594027
+Date: 06/23/2018
+Invoiced To
+John Smith
+123 O ak Ave.
+Los Angeles, CA 90017
+Description Total
+Premium Membership - Monthly - yourdomain.com (06/23/2018 - 0 7/23/2018) USD $50.00
+Promotional Code: 25OFF - 25.00% Recurring Discount USD $-12.50
+Sub Total USD $37.50
+Credit USD $0.00
+Total USD $37.50
+Transactions
+Transaction Date Transaction ID Amount
+06/23/2018 USD $37.50
+ch_9CdwKtEDJAI2k4ZEVqkl0xQr
+Balance USD $37.50
+PDF Generated on 06/23/2018
+Powered by TCPDF (www.tcpdf.org)
+
+--- Page 3 ---
+Your Business Name
+1 Main St.
+Bevery Hills, CA 90210
+Phone: +1 (800) 555-5555
+email@yourdomain.com
+Invoice #
+13594027
+Date: 06/23/2018
+Invoiced To
+John Smith
+123 O ak Ave.
+Los Angeles, CA 90017
+Description Total
+Premium Membership - Monthly - yourdomain.com (06/23/2018 - 0 7/23/2018) USD $50.00
+Promotional Code: 25OFF - 25.00% Recurring Discount USD $-12.50
+Sub Total USD $37.50
+Credit USD $0.00
+Total USD $37.50
+Transactions
+Transaction Date Transaction ID Amount
+06/23/2018 USD $37.50
+ch_9CdwKtEDJAI2k4ZEVqkl0xQr
+Balance USD $37.50
+PDF Generated on 06/23/2018
+Powered by TCPDF (www.tcpdf.org)
+
+--- Page 4 ---
+Your Business Name
+1 Main St.
+Bevery Hills, CA 90210
+Phone: +1 (800) 555-5555
+email@yourdomain.com
+Invoice #
+13594027
+Date: 06/23/2018
+Invoiced To
+John Smith
+123 O ak Ave.
+Los Angeles, CA 90017
+Description Total
+Premium Membership - Monthly - yourdomain.com (06/23/2018 - 0 7/23/2018) USD $50.00
+Promotional Code: 25OFF - 25.00% Recurring Discount USD $-12.50
+Sub Total USD $37.50
+Credit USD $0.00
+Total USD $37.50
+Transactions
+Transaction Date Transaction ID Amount
+06/23/2018 USD $37.50
+ch_9CdwKtEDJAI2k4ZEVqkl0xQr
+Balance USD $37.50
+PDF Generated on 06/23/2018
+Powered by TCPDF (www.tcpdf.org)
+
